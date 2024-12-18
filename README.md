@@ -1,10 +1,11 @@
 # Chinese Street Cats
 
 This project uses Vanilla JS scafolded in VITE
+Images are sourced from the StreetCatWiki! Find here: https://streetcat.wiki/index.php/Main_Page
 
 ## Features
 
-- **Cool Hover Animations**: Hover your mouse over each cat card!
+- **Cool Hover Animations**: Hover your mouse over each cat card! Took quite a bit of time to do.
 
 ## Getting Started
 
