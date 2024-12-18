@@ -5,7 +5,7 @@ Images are sourced from the StreetCatWiki! Find here: https://streetcat.wiki/ind
 
 ## Features
 
-- **Cool Hover Animations**: Hover your mouse over each cat card! Took quite a bit of time to do.
+- **Cool Hover Animations**: Hover your mouse over each cat card! Took quite a bit of time to do. ~10 hours only because of the Cat Images
 
 ## Getting Started
 
